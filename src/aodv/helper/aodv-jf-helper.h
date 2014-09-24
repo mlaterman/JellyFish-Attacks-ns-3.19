@@ -2,7 +2,11 @@
  * aodv-jf-helper.h
  *
  *  Created on: 2014-04-10
- *      Author: boots
+ *      Author: Michel Laterman
+ *
+ *  attempted to implement a JF attack (reordering, dropping, and delaying packets) in the aodv module
+ *  module does not work and is not being developed
+ *  released to allow others to work off of a possible starting point.
  */
 
 #ifndef AODV_JF_HELPER_H_

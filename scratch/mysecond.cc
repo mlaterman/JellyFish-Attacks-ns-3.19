@@ -43,6 +43,11 @@ using namespace ns3;
 
 NS_LOG_COMPONENT_DEFINE ("SecondScriptExample");
 
+/*
+ * A more complex simulation to use the JF attack in
+ * attacking nodes are either at the edge or within the network
+ */
+
 int
 main (int argc, char *argv[])
 {

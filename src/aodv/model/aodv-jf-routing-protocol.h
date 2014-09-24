@@ -40,7 +40,9 @@
 #include "ns3/ipv4-interface.h"
 #include "ns3/ipv4-l3-protocol.h"
 #include <map>
-
+/*
+ * Modified to refer to the jfrqueue
+ */
 namespace ns3
 {
 namespace aodv

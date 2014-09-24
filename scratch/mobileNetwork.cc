@@ -23,7 +23,12 @@
 #include "ns3/bulk-send-helper.h"
 #include "ns3/packet-sink.h"
 #include "ns3/aodv-module.h"
-
+/*
+ * Network layout is 5 servers, 5 clients and 15 other nodes
+ * traffic is generated with the BulkSend application
+ *
+ * Simulation is broken as aodv has not been fixed
+ */
 using namespace ns3;
 
 NS_LOG_COMPONENT_DEFINE ("MobileNetwork");

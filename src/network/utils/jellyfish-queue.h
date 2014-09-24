@@ -3,6 +3,8 @@
  *
  *  Created on: 2014-03-17
  *      Author: Michel Laterman
+ *
+ *  Note: Reordering is not garunteed, no timeout specified
  */
 
 #ifndef JELLYFISH_QUEUE_H_

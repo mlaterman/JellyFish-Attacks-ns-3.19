@@ -34,6 +34,10 @@
 #include "ns3/packet-sink.h"
 #include "ns3/jellyfish-queue.h"
 
+/*
+ * Simple test of the JF attack on a p2p connection
+ */
+
 using namespace ns3;
 
 NS_LOG_COMPONENT_DEFINE ("TcpBulkSendExample");

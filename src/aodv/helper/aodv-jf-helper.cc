@@ -23,7 +23,9 @@
 #include "ns3/names.h"
 #include "ns3/ptr.h"
 #include "ns3/ipv4-list-routing.h"
-
+/*
+ * Modified to refer to the jfrqueue
+ */
 namespace ns3
 {
 

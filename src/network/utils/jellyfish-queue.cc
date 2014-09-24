@@ -4,7 +4,7 @@
  *  Created on: 2014-03-17
  *      Author: Michel Laterman
  *
- * TODO: Specify reorder window size, time delay, drop probability
+ * Note: Reordering is not garunteed, no timeout specified
  */
 #include "ns3/log.h"
 #include "ns3/enum.h"

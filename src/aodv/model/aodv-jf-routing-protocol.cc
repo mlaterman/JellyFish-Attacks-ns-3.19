@@ -42,7 +42,9 @@
 #include "ns3/pointer.h"
 #include <algorithm>
 #include <limits>
-
+/*
+ * Modified to refer to the jfrqueue
+ */
 NS_LOG_COMPONENT_DEFINE ("AodvJFRoutingProtocol");
 
 namespace ns3

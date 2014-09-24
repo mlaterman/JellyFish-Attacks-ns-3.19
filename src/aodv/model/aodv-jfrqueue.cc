@@ -2,7 +2,10 @@
  * aodv-jfrqueue.cc
  *
  *  Created on: 2014-04-06
- *      Author: boots
+ *      Author: Michel Laterman
+ *  Attempted to implement a JF attack (reordering, dropping, and delaying packets) in the aodv module
+ *  module does not work and is not being developed
+ *  released to allow others to work off of a possible starting point
  */
 
 #include "aodv-jfrqueue.h"
